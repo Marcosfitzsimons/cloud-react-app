@@ -4,7 +4,7 @@
 
 ## More details:
 
-### I learned how to create and structure a project with react + tailwind & style each component with tailwindCSS,
+### I learned how to create and structure a project with react + tailwind & style each component with it,
 
 ### & also learned how to implement Smooth Scrolling w. React:
 
