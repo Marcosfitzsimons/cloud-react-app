@@ -1,6 +1,6 @@
 ## Description:
 
-### I made this project following the begginer tutorial learning called "React JS Website with Tailwind CSS", by the youtube channel Code Commerce.
+### I made this project following the beginner tutorial learning called "React JS Website with Tailwind CSS", by the youtube channel Code Commerce.
 
 ## More details:
 
